@@ -12,7 +12,8 @@
     },
     "require": {
         "vkcom/vk-php-sdk": "^5.80",
-        "drupal/social_auth": "^2.0"
+        "drupal/social_auth": "^2.0",
+        "drupal/core": "^8 || ^9"
     },
     "authors": [
         {
